@@ -14,6 +14,9 @@
     p {
         line-height: 2
     }
+    footer p a {
+        color: #fff;
+    }
 
     .bgimg,
     .bgimg2 {
