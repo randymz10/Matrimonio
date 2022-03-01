@@ -9,6 +9,6 @@ Página web creada para mi boda, donde narré parte de mi historia con mi esposa
 - W3.CSS Framework
 ---
 ## Recursos y enlaces
-- **Link GitHub pages** https://randymz10.github.io/matrimonio
+- **Link GitHub pages** https://randymz10.github.io/Matrimonio/
 - **Template usado** https://bityl.co/9mXH
  - **Demo del template** https://bityl.co/9mXQ
