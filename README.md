@@ -1,8 +1,8 @@
 # Matrimonio
-## Descripción
 
 Página web creada para mi boda, donde narré parte de mi historia con mi esposa y agregué datos sobre el evento. En él fue puesto en práctica conocimientos de HTML y CSS
 
+![](/img/matrimonio.jpg)
 ---
 ## Tecnologias 
 - HTML 5
@@ -13,3 +13,4 @@ Página web creada para mi boda, donde narré parte de mi historia con mi esposa
 - **Link GitHub pages** https://randymz10.github.io/Matrimonio/
 - **Template usado** https://bityl.co/9mXH
  - **Demo del template** https://bityl.co/9mXQ
+
