@@ -14,9 +14,9 @@ Página web creada para mi boda, donde narré parte de mi historia con mi esposa
 - **Template usado** https://bityl.co/9mXH
 - **Demo del template** https://bityl.co/9mXQ
 ---
-##Autor
+## Autor
 
-[@randymz10](https://github.com/randymz10)
+- [@randymz10](https://github.com/randymz10)
 - **LinkedIn:** https://www.linkedin.com/in/randymz10/
 - **Email:** randymz10@gmail.com
 
