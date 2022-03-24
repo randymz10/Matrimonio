@@ -17,9 +17,8 @@ Web page created for my wedding, where I narrated part of my story with my wife 
 - **Template used** https://bityl.co/9mXH
 - **Template demo** https://bityl.co/9mXQ
 ---
-## Autor
+## Author
 
 - [@randymz10](https://github.com/randymz10)
 - **LinkedIn:** https://www.linkedin.com/in/randymz10/
 - **Email:** randymz10@gmail.com
-
